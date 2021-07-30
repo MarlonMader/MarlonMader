@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello 👋🏻
 
-<!--
-**MarlonMader/MarlonMader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marlon Eduardo Mader 🧑🏻
 
-Here are some ideas to get you started:
+I'm a young apprentice, on information systems programmer, by Malwee company. 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still in the learning process, wanting to become a front-end.
+
+### 🌎 "A plantação é opcional, a colheita é obrigatoria" ♞
+
+- ❄️From SC living in Jaraguá do Sul
+
+Reach me out 👇🏻
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-eduardo-mader-294b71218/)](https://www.linkedin.com/in/marlon-eduardo-mader-294b71218/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pow_mader/)](https://www.instagram.com/pow_mader/) 
