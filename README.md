@@ -4,8 +4,6 @@ My name is Marlon Eduardo Mader 🧑🏻
 
 I'm a young apprentice, on information systems programmer, by Malwee company. 👨🏻‍💻
 
-Ainda em processo de aprendizagem, querendo me tornar um Front-End
-
 ### 🌎 "A plantação é opcional, a colheita é obrigatoria" ♞
 
 - ❄️From SC living in Jaraguá do Sul
